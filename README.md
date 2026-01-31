@@ -34,4 +34,9 @@ O **Tradutor** é uma aplicação web completa que permite traduzir texto e áud
 - ✅ Trabalhar com a Web Speech API para reconhecimento de voz
 - ✅ Implementar seleção dinâmica de idiomas
 - ✅ Criar uma interface de usuário completa e funcional
+<br>
+
+🎉 **Evento:** "Missão Programação do Zero"  
+📅 **Datas:** 13, 14, 15 e 18 de Janeiro de 2026  
+👨‍🏫 **Mentor:** @rodolfomorii  
 
